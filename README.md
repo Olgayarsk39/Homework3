@@ -11,4 +11,4 @@
 ### Решение 
 
 
-[Решение задачи](src/main/java/ru/egorova/api/homework_3/Program.java)
+[Решение задачи](src/main/java/ru/egorova/api/Homework_3/Program.java)
